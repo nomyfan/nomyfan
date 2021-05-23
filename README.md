@@ -12,4 +12,7 @@
 - Take a trip to Macau.
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   6 mins          █████████████████████▓░░░   86.31 % 
+```
 <!--END_SECTION:waka-->
