@@ -10,6 +10,7 @@
 - Sleep early.
 - Learn Japanese.
 - Take a trip to Macau.
+- Be more concentrated.
 
 <!--START_SECTION:waka-->
 ```text
