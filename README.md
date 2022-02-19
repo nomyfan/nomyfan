@@ -4,13 +4,13 @@
 - Photographing
 - Animation
 
-## Goals in 2021
+## Goals in 2022
 
-- git commit every day.
 - Sleep early.
 - Learn Japanese.
-- Take a trip to Macau.
-- Be more concentrated.
+- Practice mindfulness for 10 minutes a day.
+- Master freestyle swimming.
+- More readings(books about various domains)
 
 <!--START_SECTION:waka-->
 ```text
