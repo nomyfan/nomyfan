@@ -4,13 +4,7 @@
 - Photographing
 - Animation
 
-## Goals in 2022
-
-- Sleep early.
-- Learn Japanese.
-- Practice mindfulness for 10 minutes a day.
-- Master freestyle swimming.
-- More readings(books about various domains)
+Working on writing a Game Boy emulator in Rust.
 
 <!--START_SECTION:waka-->
 
