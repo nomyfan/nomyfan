@@ -4,7 +4,7 @@
 - Photographing
 - Animation
 
-Working on writing a Game Boy emulator in Rust.
+Writing a Game Boy emulator in Rust.
 
 <!--START_SECTION:waka-->
 
