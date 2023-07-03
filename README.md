@@ -9,11 +9,11 @@ Writing a Game Boy emulator in Rust.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         22 hrs 53 mins  █████████████████████░░░░   84.36 %
-SCSS               1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-Bash               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Markdown           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Other              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TypeScript       28 hrs 59 mins  ███████████████████░░░░░░   75.61 %
+PowerShell       2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+YAML             1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Rust             1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Markdown         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
