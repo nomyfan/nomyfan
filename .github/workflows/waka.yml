@@ -11,10 +11,11 @@ jobs:
     name: Update README waka section
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: nomyfan/waka-readme-stats@dev
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_TITLE: "📊 **Last Week I Spent My Time On**"
           COMMIT_USERNAME: "github-actions[bot]"
           COMMIT_MESSAGE: "Update Waka"
           SHOW_UPDATED_DATE: "False"
