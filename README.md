@@ -1,11 +1,3 @@
-## My interests
-
-- Coding
-- Photographing
-- Animation
-
-Writing a Game Boy emulator in Rust.
-
 <!--START_SECTION:waka-->
 📊 **Last Week I Spent My Time On** 
 
